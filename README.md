@@ -1,3 +1,3 @@
 # CGPA
 
-Something here
+Something here.
